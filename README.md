@@ -1,1 +1,1 @@
-# meme_generator1-
+The Meme Generator project is a web application designed to allow users to create and customize their own memes. Built using modern web technologies, this project focuses on providing an intuitive and fun user experience for meme enthusiasts of all skill levels.
